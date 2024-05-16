@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Becky Wilks!
-- 📖 Studing Molecular Biology at the University of Sheffield, UK
-- 🧬 I completed a placement year at OGT in the computational biology department
+- 📖 Currently, I am studing Molecular Biology at the University of Sheffield, UK
+- 🧬 In my third year of my undergrad, I completed a placement year at OGT in the Computational Biology department
+- 🖥️ I'm currently working as a Research Computing Support Technician at the University of Sheffield, UK
 - 👀 I’m interested in learning bioinformatics/computational biology in more depth
-- 🎯 Career Goals: I want to complete a PhD and work in genomics research
+- 🎯 Career Goals: My aim is to work in bioinformatics within the human genomics sector
 - 🌱 I’m currently completing the rosalind coding challenges: (https://rosalind.info/problems/list-view/)
 - 📫 Reach me by personal email: wilks.r@outlook.com
 
